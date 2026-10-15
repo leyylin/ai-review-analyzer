@@ -43,7 +43,7 @@
 ### 1. Установка зависимостей
 
 ```bash
-git clone https://github.com/<ваш-логин>/ai-review-analyzer.git
+git clone https://github.com/leyylin/ai-review-analyzer.git
 cd ai-review-analyzer
 python -m venv .venv
 ```
