@@ -1,0 +1,2 @@
+streamlit>=1.38
+gigachat>=0.2.3
